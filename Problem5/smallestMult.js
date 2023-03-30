@@ -8,7 +8,7 @@ function scm(a,b){
    }
 
 function scm_more(arr) {
-    return arr.reduce(scm)
+    return arr.reduce(scm);
     }
 
 function smallestMult(num){
