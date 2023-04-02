@@ -6,9 +6,9 @@ function latticePaths(num){
   for(let i=num+1; i<=2*num; i++){
        pathNum = pathNum*i;
       }
-      for(let j=1; j<=num; j++){
-           pathNum = pathNum/j;
-          }
+  for(let j=1; j<=num; j++){
+       pathNum = pathNum/j;
+      }
    return parseInt(pathNum);
    }
                       
