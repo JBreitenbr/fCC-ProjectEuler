@@ -24,12 +24,3 @@ In the 20×20 grid below, four numbers along a diagonal line have been marked in
 The product of these numbers is 26 × 63 × 78 × 14 = 1788696.
 
 What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in a given arr grid?
-
-Tests
-Waiting:1. largestGridProduct(testGrid) should return a number.
-Waiting:2. largestGridProduct(testGrid) should return 14169081.
-Waiting:3. largestGridProduct(grid) should return 70600674.
-Run
-Reset
-Help
-Navigated to Problem 11: Largest product in a grid
